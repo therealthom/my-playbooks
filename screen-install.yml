@@ -1,3 +1,4 @@
+---
 - name: Start service screen, if not started
   service:
     name: screen
